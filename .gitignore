@@ -1,0 +1,20 @@
+# Ignore LaTeX auxiliary (aux), output (output) and Tex/_Trash folders
+aux/
+output/
+Tex/_Trash/
+gradient_descent/
+machine_learning/
+myenv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+.env
+.idea/
+*.log
+data/
+results/
+models/
+checkpoints/
+temp/
