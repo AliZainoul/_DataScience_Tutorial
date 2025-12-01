@@ -3,7 +3,6 @@ aux/
 output/
 Tex/_Trash/
 gradient_descent/
-machine_learning/
 myenv/
 __pycache__/
 *.pyc
@@ -18,3 +17,5 @@ results/
 models/
 checkpoints/
 temp/
+machine_learning/supervised/decision_trees/
+machine_learning/unsupervised
