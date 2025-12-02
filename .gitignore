@@ -15,5 +15,4 @@ results/
 models/
 checkpoints/
 temp/
-machine_learning/supervised/decision_trees/
 machine_learning/unsupervised
